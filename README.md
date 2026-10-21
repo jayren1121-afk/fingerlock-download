@@ -35,7 +35,7 @@ FingerLock 是免費的 Windows 檔案鎖，用 AES-256-GCM 把你選的資料�
 4. 本程式目前沒有程式碼簽章，Windows SmartScreen 可能會警告；確認雜湊正確後再按「其他資訊 → 仍要執行」。
 
 ### 使用說明書
-每個 Release 都附有 PDF 說明書：`FingerLock_使用說明書.pdf`（中文）與 `FingerLock_Manual_EN.pdf`（英文）。
+每個 Release 都附有 PDF 說明書：`FingerLock_Manual_ZH-TW.pdf`（中文）與 `FingerLock_Manual_EN.pdf`（英文）。
 
 ---
 
@@ -68,4 +68,4 @@ A free Windows file locker that encrypts chosen folders with AES-256-GCM. To unl
 4. The exe is not code-signed yet, so SmartScreen may warn; only after the hash matches choose "More info → Run anyway".
 
 ### Manuals
-Each release includes PDF manuals: `FingerLock_使用說明書.pdf` (Traditional Chinese) and `FingerLock_Manual_EN.pdf` (English).
+Each release includes PDF manuals: `FingerLock_Manual_ZH-TW.pdf` (Traditional Chinese) and `FingerLock_Manual_EN.pdf` (English).
